@@ -1,4 +1,5 @@
-![GalaxyGames](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GalaxyGames&fontSize=70)
+<img src="https://github.com/GalaxyGamesMC/.github/blob/main/galaxy.png?raw=true" alt="GalaxyGames" width="650" height="362">
+
 
 - 🔭 | GalaxyGames is an organization that includes all employees in GalaxyGames.
 - ✔️ | The organization is in development and you can join!
